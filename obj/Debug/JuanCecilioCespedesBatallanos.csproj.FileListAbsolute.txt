@@ -1,0 +1,30 @@
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.exe.config
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.exe
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csprojAssemblyReference.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.Properties.Resources.resources
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.GenerateResource.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.CoreCompileInputs.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.exe
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.FrmCliente.resources
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeNegocio.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeNegocio.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.CopyComplete
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeDatos.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.exe.config
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.exe
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\JuanCecilioCespedesBatallanos.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeNegocio.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.FrmCliente.resources
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.Properties.Resources.resources
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.csproj.CopyComplete
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.exe
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\obj\Debug\JuanCecilioCespedesBatallanos.pdb

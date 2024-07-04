@@ -1,0 +1,18 @@
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csprojAssemblyReference.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

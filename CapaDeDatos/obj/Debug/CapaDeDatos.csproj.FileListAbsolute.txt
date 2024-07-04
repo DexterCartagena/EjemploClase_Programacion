@@ -1,0 +1,18 @@
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\System.Data.SqlClient.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\System.Data.SqlClient.xml
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+F:\gato\clases de c shap en la univ\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\JuanCecilioCespedesBatallanos\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
